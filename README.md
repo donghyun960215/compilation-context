@@ -38,5 +38,6 @@
       설정 안하면 4가지(node_modules, bower_components, jspm_packges,
       outDir>)를 default로 제외합니다.
       <outDir>은 항상 제외합니다.(include에 있어도)
-
 ```
+
+# compileOpstions
